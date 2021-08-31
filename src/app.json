@@ -1,0 +1,12 @@
+{
+  "appName": "multibasesimple",
+  "version": "1.0",
+  "baseLibraryVersion": "1.0",
+  "appIconPath": "assets/appIcon.png",
+  "guidanceUrl": "https://multi.ne.jp/",
+  "helpUrl": "https://multi.ne.jp/help/",
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail"
+  ]
+}
